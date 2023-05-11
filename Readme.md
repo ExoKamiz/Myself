@@ -1,12 +1,15 @@
-Przed uruchominiem należy wykonać polecenia:
+# Przed uruchominiem należy wykonać polecenia:
+
+```
 npm init
 npm install node
 npm install express
 npm install request
 npm install open
+```
 
 
-Zadanie 3.
+## Zadanie 3.
 
 A. Zbudowania opracowanego obrazu kontenera
 
